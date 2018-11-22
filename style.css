@@ -10,11 +10,19 @@ nav{
     margin: 0;
 }
 
+.imagine1{
+    margin:auto;
+    height: auto;
+    width: 20%;
+    padding-top:20px;
+}
+
 .imagine{
     margin:auto;
     height: auto;
-    width: 15%;
-    padding-top:20px;
+    width: 50%;
+    padding-top:75px;
+    padding-bottom:20px;
 }
 .ffo{
         text-align: center;
@@ -53,3 +61,20 @@ nav{
 #custom-search-input .glyphicon-search{
     font-size: 23px;
 }
+.vertical-menu {
+    width: 200px;
+}
+
+.vertical-menu a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:rgb(37, 92, 119);
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.vertical-menu a:hover {
+    background-color: #ccc;
+}
+
