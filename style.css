@@ -78,3 +78,44 @@ nav{
     background-color: #ccc;
 }
 
+.font{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:rgb(37, 92, 119);
+    font-size:30px;
+    padding-top: 2vw;
+}
+
+.size{
+font-size: 20px;
+}
+
+.st1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #666666;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.st2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+}
+
+.st3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+.st4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(37, 92, 119); 
+    font-size: 20px;
+    text-align: center;
+}
