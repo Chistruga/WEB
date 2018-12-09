@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+		<link rel="stylesheet" type="text/css" href="style_form.css"/>
+</head>
+<body>
+<div class="container">
+    <div class="header"> <h1> Chestionar </h1> </div>
+        <form method="POST" action="formular.php">
+                <label class=labelf2> Informarile privind promotiile/ reducerile de pret/ produse noi </label> <kbd style="color:red">*</kbd> </br>
+            </BR>
+          <input type="radio" name="info[]" value="Foarte multumit" checked> Foarte multumit</br>
+          <input type="radio" name="info[]" value="Total multumit" checked> Total multumit</br>
+          <input type="radio" name="info[]" value="Multumit" checked> Multumit</br>
+          <input type="radio" name="info[]" value="Partial multumit" checked> Partial multumit</br>
+          <input type="radio" name="info[]" value="Nemultumit" checked> Nemultumit</br>
+            </br>
+        <label class=labelf2> Ati gasit cartea pe care o cautati? </label> <kbd style="color:red">*</kbd> </br>
+            </BR>
+         <input type="radio" name="cautare" value="da" checked> Da</br>
+         <input type="radio" name="cautare" value=nu" checked> Nu</br>
+           </br>
+           <label class=labelf2> Ce categorie de carti ati cautat? </label> <kbd style="color:red">*</kbd> </br>
+        </BR>
+      <input type="radio" name="categorie" value="literatura" checked> literatura</br>
+      <input type="radio" name="categorie" value="arta" checked> arta</br>
+      <input type="radio" name="categorie" value="istorie" checked> istorie</br>
+      <input type="radio" name="categorie" value="poezie" checked> poezie</br>
+      <input type="radio" name="categorie" value="bucate" checked> bucate</br>
+    </br> 
+    <label class=labelf2> Sunteti satisfacuti de preturile de pe pagina? </label> <kbd style="color:red">*</kbd> </br>
+</BR>
+<input type="radio" name="satisfacere_pret" value="Foarte multumit" checked> Foarte multumit</br>
+<input type="radio" name="satisfacere_pret" value="Total multumit" checked> Total multumit</br>
+<input type="radio" name="satisfacere_pret" value="Multumit" checked> Multumit</br>
+<input type="radio" name="satisfacere_pret" value="Partial multumit" checked> Partial multumit</br>
+<input type="radio" name="satisfacere_pret" value="Nemultumit" checked> Nemultumit</br>
+<br>
+<label class=labelf2> Ati fost multumit de modul in care s-a desfasurat achizitita online? </label> <kbd style="color:red">*</kbd> </br>
+</BR>
+<input type="radio" name="achizitie" value="da" checked> da</br>
+<input type="radio" name="achizitie" value="nu" checked> nu</br>
+ <br>
+ <input class="buttom" name="buton" type="submit" value="Purchase" style=" width: 192px; height: 42px;"> <br><br>
+</br>
+</br>
+        </form>
+        </div>
+        
+</body>
+</html>

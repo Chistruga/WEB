@@ -1,0 +1,30 @@
+Informarile privind promotiile/ reducerile de pret/ produse noi
+- foarte multumit
+- total multumit
+- multumit
+- partial multumit
+- multumit
+
+ati gasit cartea pe care o cautati?
+- da
+- nu
+
+ce categorie de carte ati cautat?
+- literatura
+- arta
+- carte de specialitate
+- carti de bucate
+- istorie
+- poezie
+- altele
+
+sunteti satisfacut de preturile de pe pagina?
+- foarte multumit
+- total multumit
+- multumit
+- partial multumit
+- multumit
+
+ A?i fost mul?umit de modul în care s-a desfa?urat achizi?ia online?
+- da
+- nu

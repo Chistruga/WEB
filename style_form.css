@@ -1,0 +1,30 @@
+
+div.container {
+    width:25%;
+		margin: 0px auto;
+    border:1px solid red;
+		line-height:90%;}
+		
+div.header {
+    padding:0.35em;
+		color:white;
+		background-color:#0099cc;
+		clear:left;}
+
+.buttom{
+background-color: #33ccff;
+font-family: Tahoma;
+color: #ffffff;
+border:0;
+font-weight:bold;
+border-radius:5px;
+width:160px;
+height:32px;
+font-size:100%;
+border-left-width: 6px;
+margin-left: 10px;
+padding-left: 4px;}
+
+.labelf2 {display:inline-block;
+font-weight:bold;
+}
