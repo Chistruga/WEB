@@ -151,8 +151,8 @@
         <div class="col-md-3">
         <a href="padureaMetalurgica.html"><img class="card-img-top" src="img\poetry\5222ca241784e8223a2316a1f90d9663-5397377-1000_1000.jpg" alt="Card image cap"></a>
         </div>
-        <div class="col-md-3" style="border:2px solid grey; width:250px; height:280px;">
-              <br> <br> <h3 style="color: red; text-align:center; font-family:'Cambria';">Numărul de vizitatori al paginii:</h3>
+        <div class="col-md-3" style="border:2px solid grey; width:250px; height:370px;">
+        <br> <br><br> <br> <h3 style="color: red; text-align:center; font-family:'Cambria';">Numărul de vizitatori al paginii:</h3>
         <br>
         <?php
 $con = mysqli_connect("localhost","root","") or die ("Couldn't connect to database");
