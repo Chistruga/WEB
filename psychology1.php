@@ -91,7 +91,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <div class="col-md-3">
             <br>
             <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="img\psychology\2211.jpg" alt="Card image cap">
+            <a href="psihologia.html"> <img class="card-img-top" src="img\psychology\2211.jpg" alt="Card image cap"></a>
                     <div class="card-body">
                       <h5 class="st1 card-title">Psihologia vieții de zi cu zi</h5>
                     </div>
@@ -118,7 +118,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <div class="col-md-3">
             <br>
             <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="img\psychology\antreneaza-ti-creierul-strategii-si-tehnici-de-transformare-mentala_1_fullsize.jpg" alt="Card image cap">
+            <a href="antreneaza.html"><img class="card-img-top" src="img\psychology\antreneaza-ti-creierul-strategii-si-tehnici-de-transformare-mentala_1_fullsize.jpg" alt="Card image cap"></a>
                     <div class="card-body">
                       <h5 class="st1 card-title"><br>Antrenează-ți creierul</h5>
                     </div>

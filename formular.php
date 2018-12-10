@@ -37,7 +37,7 @@ if (!is_array($achizitie1)){
     $erori[] = 'Completeaza un cimp';
 }
 
-if ($proceseaza1){}
+if ($proceseaza){}
 
 echo '<br /><br><br />';
 echo 'Va multumim pentru completarea chestionarului!';

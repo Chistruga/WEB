@@ -89,7 +89,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <div class="col-md-3">
             <br>
             <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="img\history\9789735029180-2207190.jpg" alt="Card image cap">
+                   <a href="str.html"> <img class="card-img-top" src="img\history\9789735029180-2207190.jpg" alt="Card image cap"></a>
                     <div class="card-body">
                       <h5 class="st1 card-title">Străzi vechi din Bucureștiul de azi</h5>
                     </div>
@@ -116,7 +116,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <div class="col-md-3">
             <br>
             <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="img\history\balcic.-micul-paradis-al-rom_niei-mari3.jpg" alt="Card image cap">
+                   <a href="micul.html"> <img class="card-img-top" src="img\history\balcic.-micul-paradis-al-rom_niei-mari3.jpg" alt="Card image cap"></a>
                     <div class="card-body">
                       <h5 class="st1 card-title">Micul paradis al României Mari</h5>
                     </div>

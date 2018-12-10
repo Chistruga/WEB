@@ -89,7 +89,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <div class="col-md-3">
             <br>
             <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="img\poetry\6addeaa3-71df-420a-ba77-58002960270a_w974_n_s.jpg" alt="Card image cap">
+                   <a href="LaUnPas.html"> <img class="card-img-top" src="img\poetry\6addeaa3-71df-420a-ba77-58002960270a_w974_n_s.jpg" alt="Card image cap"></a>
                     <div class="card-body">
                       <h5 class="st1 card-title"><br>La un pas de sine<br></h5>
                     </div>
@@ -116,7 +116,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <div class="col-md-3">
             <br>
             <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="img\poetry\5222ca241784e8223a2316a1f90d9663-5397377-1000_1000.jpg" alt="Card image cap">
+            <a href="padureaMetalurgica.html"> <img class="card-img-top" src="img\poetry\5222ca241784e8223a2316a1f90d9663-5397377-1000_1000.jpg" alt="Card image cap"></a>
                     <div class="card-body">
                       <h5 class="st1 card-title"><br>Pădurea metalurgică<br></h5>
                     </div>

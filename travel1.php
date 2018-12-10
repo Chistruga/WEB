@@ -90,7 +90,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <div class="col-md-3">
             <br>
             <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="img\travel\0_1964.jpg" alt="Card image cap">
+                  <a href="xenoAustr.html">  <img class="card-img-top" src="img\travel\0_1964.jpg" alt="Card image cap"></a>
                     <div class="card-body">
                       <h5 class="st1 card-title"><br>Ghidul Xenofobului</h5>
                     </div>
@@ -117,7 +117,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <div class="col-md-3">
             <br>
             <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="img\travel\ghidul-xenofobului---francezii_1_fullsize.jpg" alt="Card image cap">
+                   <a href="france.html"> <img class="card-img-top" src="img\travel\ghidul-xenofobului---francezii_1_fullsize.jpg" alt="Card image cap"></a>
                     <div class="card-body">
                       <h5 class="st1 card-title"><br>Ghidul Xenofobului</h5>
                     </div>
@@ -183,7 +183,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
             </div>
             <br>
             <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="img\travel\ghidul-xenofobului---austriecii_1_fullsize.jpg" alt="Card image cap">
+            <a href="xenoAustr.html">  <img class="card-img-top" src="img\travel\ghidul-xenofobului---austriecii_1_fullsize.jpg" alt="Card image cap"></a>
                     <div class="card-body">
                       <h5 class="st1 card-title"><br>Ghidul Xenofobului</h5>
                     </div>

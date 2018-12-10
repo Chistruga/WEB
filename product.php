@@ -117,7 +117,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <div class="col-md-3">
             <br>
             <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="img\lit&fict\toata-lumina-pe-care-nu-o-putem-vedea-produs_imagine_1_.jpg" alt="Card image cap">
+                    <a href="toata.html"><img class="card-img-top" src="img\lit&fict\toata-lumina-pe-care-nu-o-putem-vedea-produs_imagine_1_.jpg" alt="Card image cap"></a>
                     <div class="card-body">
                       <h5 class="st1 card-title">Toată lumina pe care nu o putem vedea</h5>
                     </div>
@@ -144,7 +144,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <div class="col-md-3">
             <br>
             <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="img\lit&fict\barbati-fara-femei-produs_imagine.jpg" alt="Card image cap">
+                    <a href="barbati.html"><img class="card-img-top" src="img\lit&fict\barbati-fara-femei-produs_imagine.jpg" alt="Card image cap"></a>
                     <div class="card-body">
                       <h5 class="st1 card-title"><br>Bărbați fără femei<br></h5>
                     </div>
